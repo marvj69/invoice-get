@@ -12,7 +12,7 @@ A user-friendly web application for generating invoices, calculating totals with
   - Auto-calculate subtotal, tax, discounts, shipping, and total amount due.
 - **Tax Feature**
   - Input a tax percentage to be applied to the subtotal.
-- **Local Storage**
+- **Local Storage***
   - Store created invoices in the browser's local storage.
   - Retrieve and edit stored invoices.
 - **User Interface**
