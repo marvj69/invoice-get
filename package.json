@@ -20,6 +20,5 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-    // Notice we won't rely on "deploy" script locally since we'll do it via Actions
   }
 }
